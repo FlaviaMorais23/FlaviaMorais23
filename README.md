@@ -2,8 +2,7 @@
   
   <h1 align="center">
     Olá, seja bem vindo(a)! <br>
-    me chamo 
-    <a href="https://www.linkedin.com/in/clara-balbino/">Flávia Morais </a>
+    me chamo Flávia Morais </a>
   </h1>
   
   <p align="center">
