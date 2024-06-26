@@ -26,10 +26,6 @@
   <img align="center" alt="github" height="35" width="35" src="https://www.logotypes101.com/logos/612/3BF36CF1857F8854E2C416AC23E2397F/github_logo.png">
 </div><br>
 
-<div align="center">
-  <a href="anaflaviapmorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 <!--<div align="center">
   
  ![snake gif](https://github.com/FlaviaMorais23/FlaviaMorais23/blob/output/github-contribution-grid-snake.svg)
